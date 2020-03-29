@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/alexxxPopa/github-tryouts/issues"
   },
-  "homepage": "https://github.com/alexxxPopa/github-tryouts#readme"
-}
+  "homepage": "https://github.com/alexxxPopa/github-tryouts#readme",
+  "dependencies": {
+    "react": "^16.8.0-alpha.1",
+    "react-apollo": "^3.1.3",
+    "react-countdown-now": "^1.3.0",
+    "react-credit-card-input": "^1.1.1",
+    "react-dom": "^16.8.0-alpha.1",
+    "react-google-recaptcha": "^1.0.4",
+    "react-i18next": "^11.2.4",
+    "react-modal": "^3.7.1"	  
+  }
